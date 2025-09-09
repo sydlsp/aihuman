@@ -641,3 +641,5 @@ if __name__ =="__main__":
 
 # CUDA_VISIBLE_DEVICES=5,6,7 accelerate launch --config_file /home/shipu/mycode/default_config.yaml train_1_17.py
 # CUDA_VISIBLE_DEVICES=0 accelerate launch --config_file  /home/shipu/mycode/one_gpu_default_config.yaml train_1_12.py
+
+# 这是我的改动！！！！！！！！
